@@ -31,7 +31,16 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://catarusso.github.io/docs/encargo_00/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Algunos de mis trabajos favoritos a lo largo de la carrera.</description>
+    </item>
+    
+    <item>
+      <title>Sillas</title>
+      <link>https://catarusso.github.io/docs/encargo_01/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/encargo_01/</guid>
+      <description>Investigación de sillas a partir del documental &amp;lsquo;Vitra Chair Times&amp;rsquo;</description>
     </item>
     
   </channel>
