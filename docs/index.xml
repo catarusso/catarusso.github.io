@@ -18,6 +18,15 @@
     
     <item>
       <title>Ejemplos Markdown</title>
+      <link>https://catarusso.github.io/docs/encargo_03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/encargo_03/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
       <link>https://catarusso.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -41,6 +50,15 @@
       
       <guid>https://catarusso.github.io/docs/encargo_01/</guid>
       <description>Investigación de sillas a partir del documental &amp;lsquo;Vitra Chair Times&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Encargo 02</title>
+      <link>https://catarusso.github.io/docs/encargo_02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/encargo_02/</guid>
+      <description>Distintas formas de representar las sillas referentes (véase en encargo 01), para entender mejor sus formas.</description>
     </item>
     
   </channel>
