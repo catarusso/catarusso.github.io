@@ -27,15 +27,6 @@
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://catarusso.github.io/docs/post_1.3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs/post_1.3/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
       <link>https://catarusso.github.io/docs/post_1.5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -44,7 +35,7 @@
     </item>
     
     <item>
-      <title>Encargo 00</title>
+      <title>Post 0.0</title>
       <link>https://catarusso.github.io/docs/post_00/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -53,7 +44,7 @@
     </item>
     
     <item>
-      <title>Encargo 01</title>
+      <title>Post 1.0</title>
       <link>https://catarusso.github.io/docs/post_1.0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -62,7 +53,7 @@
     </item>
     
     <item>
-      <title>Encargo 02</title>
+      <title>Post 1.2</title>
       <link>https://catarusso.github.io/docs/post_1.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -71,7 +62,16 @@
     </item>
     
     <item>
-      <title>Encargo 03</title>
+      <title>Post 1.3</title>
+      <link>https://catarusso.github.io/docs/post_1.3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_1.3/</guid>
+      <description>Esta es la primera presentación de nuestra familia de muebles como grupo.</description>
+    </item>
+    
+    <item>
+      <title>Post 1.4</title>
       <link>https://catarusso.github.io/docs/post_1.4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
