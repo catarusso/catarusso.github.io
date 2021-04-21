@@ -88,5 +88,23 @@
       <description>Entrevista con profesional gastronómico.</description>
     </item>
     
+    <item>
+      <title>Post 2.1</title>
+      <link>https://catarusso.github.io/docs/post_2.1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_2.1/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Post 2.2</title>
+      <link>https://catarusso.github.io/docs/post_2.2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_2.2/</guid>
+      <description>Técnicas para crear moldes en Autodesk Fusion 360.</description>
+    </item>
+    
   </channel>
 </rss>
