@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://catarusso.github.io/docs/post_2.4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_2.4/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Post 0.0</title>
       <link>https://catarusso.github.io/docs/post_00/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -104,6 +113,15 @@
       
       <guid>https://catarusso.github.io/docs/post_2.2/</guid>
       <description>Técnicas para crear moldes en Autodesk Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Post 2.3</title>
+      <link>https://catarusso.github.io/docs/post_2.3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_2.3/</guid>
+      <description>Primera fabricación de moldes.</description>
     </item>
     
   </channel>
