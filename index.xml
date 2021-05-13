@@ -124,5 +124,14 @@
       <description>Primera versión de la preparación escogida.</description>
     </item>
     
+    <item>
+      <title>Post 2.5</title>
+      <link>https://catarusso.github.io/docs/post_2.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs/post_2.5/</guid>
+      <description>Versión final de la propuesta inicial.</description>
+    </item>
+    
   </channel>
 </rss>
