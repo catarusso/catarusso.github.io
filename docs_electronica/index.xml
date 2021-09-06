@@ -8,30 +8,57 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://catarusso.github.io/docs_electronica/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clase 11/08/2021</title>
-      <link>https://catarusso.github.io/docs_electronica/clase_11_08_2021/</link>
+      <title>Tarea 1</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://catarusso.github.io/docs_electronica/clase_11_08_2021/</guid>
+      <guid>https://catarusso.github.io/docs_electronica/tarea_1/</guid>
       <description>Ejercicios de experimentación con la protoboard.</description>
     </item>
     
     <item>
-      <title>Clase 18/08/2021</title>
-      <link>https://catarusso.github.io/docs_electronica/clase_18_08_2021/</link>
+      <title>Tarea 2</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://catarusso.github.io/docs_electronica/clase_18_08_2021/</guid>
+      <guid>https://catarusso.github.io/docs_electronica/tarea_2/</guid>
       <description>Ejercicio The Real Breadboard en Tinkercad</description>
     </item>
     
     <item>
-      <title>Clase 25/08/2021</title>
-      <link>https://catarusso.github.io/docs_electronica/clase_25_08_2021/</link>
+      <title>Tarea 3, 4 y 5</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://catarusso.github.io/docs_electronica/clase_25_08_2021/</guid>
+      <guid>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</guid>
       <description>Ejercicios de simulación de circuitos trabajados en clase.</description>
+    </item>
+    
+    <item>
+      <title>Tarea 6</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_6/</guid>
+      <description>Documental How to mine gold from electronics | World wide waste</description>
+    </item>
+    
+    <item>
+      <title>Tarea 7</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_7/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Tarea 8</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_8/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
