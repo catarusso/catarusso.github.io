@@ -18,6 +18,24 @@
     
     <item>
       <title>Ejemplos Markdown</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_10/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_11/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_11/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
       <link>https://catarusso.github.io/docs_taller/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -179,6 +197,15 @@
     </item>
     
     <item>
+      <title>Tarea 12</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_12/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_12/</guid>
+      <description>Ejercicios motores servo y DC</description>
+    </item>
+    
+    <item>
       <title>Tarea 2</title>
       <link>https://catarusso.github.io/docs_electronica/tarea_2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -221,6 +248,15 @@
       
       <guid>https://catarusso.github.io/docs_electronica/tarea_8/</guid>
       <description>Tareas PPT</description>
+    </item>
+    
+    <item>
+      <title>Tarea 9</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_9/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_9/</guid>
+      <description>Referente de las temáticas exploradas en clases - luz, sonido y movimiento</description>
     </item>
     
   </channel>
