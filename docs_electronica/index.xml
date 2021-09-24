@@ -17,12 +17,66 @@
     </item>
     
     <item>
-      <title>Tarea 1</title>
+      <title>Tarea 01</title>
       <link>https://catarusso.github.io/docs_electronica/tarea_1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://catarusso.github.io/docs_electronica/tarea_1/</guid>
       <description>Ejercicios de experimentación con la protoboard.</description>
+    </item>
+    
+    <item>
+      <title>Tarea 02</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_2/</guid>
+      <description>Ejercicio The Real Breadboard en Tinkercad</description>
+    </item>
+    
+    <item>
+      <title>Tarea 03, 04 y 05</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</guid>
+      <description>Ejercicios de simulación de circuitos trabajados en clase.</description>
+    </item>
+    
+    <item>
+      <title>Tarea 06</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_6/</guid>
+      <description>Documental How to mine gold from electronics | World wide waste</description>
+    </item>
+    
+    <item>
+      <title>Tarea 07</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_7/</guid>
+      <description>Primeros ejercicios arduino</description>
+    </item>
+    
+    <item>
+      <title>Tarea 08</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_8/</guid>
+      <description>Tareas PPT</description>
+    </item>
+    
+    <item>
+      <title>Tarea 09</title>
+      <link>https://catarusso.github.io/docs_electronica/tarea_9/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://catarusso.github.io/docs_electronica/tarea_9/</guid>
+      <description>Referente de las temáticas exploradas en clases - luz, sonido y movimiento</description>
     </item>
     
     <item>
@@ -41,60 +95,6 @@
       
       <guid>https://catarusso.github.io/docs_electronica/tarea_12/</guid>
       <description>Ejercicios motores servo y DC</description>
-    </item>
-    
-    <item>
-      <title>Tarea 2</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_2/</guid>
-      <description>Ejercicio The Real Breadboard en Tinkercad</description>
-    </item>
-    
-    <item>
-      <title>Tarea 3, 4 y 5</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_3_4_5/</guid>
-      <description>Ejercicios de simulación de circuitos trabajados en clase.</description>
-    </item>
-    
-    <item>
-      <title>Tarea 6</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_6/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_6/</guid>
-      <description>Documental How to mine gold from electronics | World wide waste</description>
-    </item>
-    
-    <item>
-      <title>Tarea 7</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_7/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_7/</guid>
-      <description>Primeros ejercicios arduino</description>
-    </item>
-    
-    <item>
-      <title>Tarea 8</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_8/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_8/</guid>
-      <description>Tareas PPT</description>
-    </item>
-    
-    <item>
-      <title>Tarea 9</title>
-      <link>https://catarusso.github.io/docs_electronica/tarea_9/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://catarusso.github.io/docs_electronica/tarea_9/</guid>
-      <description>Referente de las temáticas exploradas en clases - luz, sonido y movimiento</description>
     </item>
     
   </channel>
